@@ -4,7 +4,7 @@ This is YouTube Unlisted Edition (more info in README.md)
 Youtube UE is meant for watching youtube videos withoutn a google account but only use this if your account is supervised and you dont have permission to watch youtube with your supervised account
 and if you know everything about youtube videos and short ID's, finding youtube videos and short ID's, HTML and CSS coding you might be lucky once you inspect my code
 i also made this code to get revenge on google and if you want to get revenge on google too then please use this, it will be a pleasure if you get revenge like me
-if you're thinking im missing the 'styles.css' file then you're wrong because i placed the 'styles.css' code in the HTML file, and goodluck taking revenge and dont share this to google or google make an update that when the cookies are turned off it will have no effect so stay aware!
+if you're thinking im missing the 'styles.css' file then you're wrong because i placed the 'styles.css' code in the HTML file, and goodluck taking revenge and do not share this to google or else google will make an update that when the cookies are turned off it will have no effect so stay aware!
 
 # Instructions
 Inspect the code and replace <video id> with your desired video OR short ID
